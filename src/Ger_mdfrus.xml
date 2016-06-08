@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="mdfrus" xml:lang="mdf">
+<e><lg><l pos="Ger">альгавозь</l><infl>, -сть</infl></lg><mg><variants><l_syn>альгя</l_syn></variants></mg></e>
+<e><lg><l pos="Ger">ваймязь</l><infl></infl></lg><mg><variants><l_syn>ваймосезь</l_syn></variants></mg></e>
+<e><lg><l pos="Ger">велянькшнезь</l><infl></infl><infl></infl><infl></infl></lg><mg><range>Зуб.- Пол.</range> <variants><l_syn>вельсезь</l_syn></variants><xg><x>Велянькшнезь, кода атямаци, сувась аф оцю, но кели и лангу лисьф мяште цёра</x><Xsrc>П. Левчаев, Повестть, расскаст</Xsrc><xt xml:lang="rus">Вразвалку, как гусь, зашёл небольшого роста, широкоплечий, широкогрудый парень</xt></xg></mg></e>
+<e><lg><l pos="Ger">визделгодозь</l><infl></infl></lg><mg><variants><l_syn>виздезь</l_syn></variants></mg></e>
+<e><lg><l pos="Ger">гавозь</l><infl>, -сть</infl><infl></infl><infl></infl></lg><mg><range>М. Муром.</range> <variants><l_syn>кавозь 1</l_syn></variants>;<xg><x>гавозь вайвелезонь кочксемс</x><xt xml:lang="rus"> корчага для сметаны // уменьш.-ласк. гавоськя</xt></xg></mg></e>
+<e><lg><l pos="Ger">ёфтардозь</l></lg><mg>, нпреч. <range>Сл. Чер.</range> рысцой; ровнай киге алашась ардсь ёфтардозь по ровной дороге лошадь бежала рысцой</mg></e>
+<e><lg><l pos="Ger">жальдезь</l><infl></infl><infl></infl><infl></infl></lg><mg><range>М. Пол.</range> <variants><l_syn>ужяльдезь</l_syn></variants></mg></e>
+<e><lg><l pos="Ger">кзнязь-кзнязь</l><infl></infl></lg><mg><variants><l_syn>кзнямс</l_syn></variants>;<xg><x1>2</x1></xg>;<xg><x>сельмонза кзнязь-кзнясть од виень толса</x><xt xml:lang="rus">глаза его горели молодым задором</xt></xg></mg></e>
+<e><lg><l pos="Ger">князь</l><infl>, -сть</infl><infl></infl><infl></infl></lg><mg><range>уст.</range><tg xml:lang="rus"><t> князь - правитель области в феодальной Руси</t></tg></mg></e>
+<e><lg><l pos="Ger">лажназь-пичедезь</l><infl></infl></lg><mg><variants><l_syn>лажназь-пеняцязь</l_syn></variants><xg><x>-- Стака лятфнемс, ох стака! - лажназь-пичедезь Проня атя</x><Xsrc>И. Кишняков, Иссась шуди Волгав</Xsrc><xt xml:lang="rus">-- Тяжело вспомнить, ох как тяжело! - грустно вздохнул дед Проня</xt></xg></mg></e>
+<e><lg><l pos="Ger">маштозь</l></lg><mg><tg xml:lang="rus"><t>нарнч. умело, со знанием дела</t></tg><xg><x>Кие эряфонц маштозь мольфтсы, ся козонга сонь аф кольфтсы</x><Xsrc>У П Т М Н</Xsrc><xt xml:lang="rus">Кто свою жизнь умело поведёт, тот её никогда не испортит</xt></xg></mg></e>
+<e><lg><l pos="Ger">мезь</l><infl></infl></lg><mg><variants><l_syn>мезе</l_syn></variants><xg><x>-- А мезь лангс ина рамайне од халаттнень?</x><Xsrc>П. Левчаев, Стирнят-якстернят</Xsrc><xt xml:lang="rus">-- А на что же я куплю новые халаты?</xt></xg></mg></e>
+<e><lg><l pos="Ger">мзолкшнезь</l></lg><mg><tg xml:lang="rus"><t>уменьш. от мзолдозь</t></tg></mg></e>
+<e><lg><l pos="Ger">сингорязь</l><infl></infl></lg><mg><variants><l_syn>сингордазь</l_syn></variants><xg><x>-- Якувонь, няйсак, Капкаев анокласы лиякс эряма-ащема, -- сингорязь корхтась стирсь</x><Xsrc> М. Сайгин, Толонь крганят</Xsrc><xt xml:lang="rus">-- Якова, видишь, Капкаев готовит жить по-другому, -- с подковыркой говорила девушка</xt></xg></mg></e>
+<e><lg><l pos="Ger">совозь</l></lg><mg>прост <variants><l_syn>совесть</l_syn></variants><xg><x>-- Кда тинь ули совезенте, азость, кие сявозе</x><Xsrc> Л. Макулов, Саттне панжихть</Xsrc><xt xml:lang="rus">-- Если у вас есть совесть, скажите, кто взял</xt></xg></mg></e>
+<e><lg><l pos="Ger">тапарякшнезь</l><infl></infl></lg><mg><variants><l_syn>тапарязь</l_syn></variants></mg></e>
+<e><lg><l pos="Ger">цюцелондазь</l><infl></infl></lg><mg><variants><l_syn>цюцелим</l_syn></variants><xg><x>...кенерень ётамс куд тёганнять, боком шлёпадень алу валги крышати, тоста цюцелондазь и прань</x><Xsrc> И. Кишняков, Ки лангса</Xsrc><xt xml:lang="rus">...я успел пройти конёк, шлёпнулся на крышу, и откатился кувырком</xt></xg></mg></e>
+</r>
