@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="mdfrus" xml:lang="mdf">
 <e><lg><l pos="Det">кемнилиеце</l></lg><mg><tg xml:lang="rus"><t>числ. порядк. четырнадцатый</t></tg>;<xg><x>кемнилиеце этажсь</x><xt xml:lang="rus">четырнадцатый этаж</xt></xg>;<xg><x>кемнилиеце вастсь</x><xt xml:lang="rus">четырнадцатое место</xt></xg></mg></e>
-<e><lg><l pos="Det" type="Ord">васенце</l></lg><mg><tg xml:lang="rus"><t>первый</t></tg><xg><x>Лознязевсь тундань васенце вишке пиземсь</x><Xsrc>Л. Макулов, Саттне панжихть</Xsrc><xt xml:lang="rus">Полил первый весенний дождь</xt></xg></mg></e>
+<e><lg><l pos="Det" type="Ord">васенце</l></lg><mg><tg xml:lang="rus"><t>первый</t></tg><xg><x src="Л. Макулов, Саттне панжихть">Лознязевсь тундань васенце вишке пиземсь</x><xt xml:lang="rus">Полил первый весенний дождь</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">ведьгемонце</l></lg><mg><tg xml:lang="rus"><t>пятидесятый</t></tg>;<xg><x>ведьгемонце кизось</x><xt xml:lang="rus">пятидесятый год</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">вейхксогемонце</l></lg><mg><tg xml:lang="rus"><t>девяностый</t></tg>;<xg><x>вейхксогемонце кизось</x><xt xml:lang="rus">девяностый год</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">вейхксоце</l></lg><mg><tg xml:lang="rus"><t>девятый</t></tg>;<xg><x>стирнять вейхкоце кизоц</x><xt xml:lang="rus">девочке девятый год</xt></xg></mg></e>
@@ -12,16 +12,16 @@
 <e><lg><l pos="Det" type="Ord">кеветиеце</l></lg><mg><tg xml:lang="rus"><t>пятнадцатый</t></tg>;<xg><x>кеветиеце вагонць</x><xt xml:lang="rus">пятнадцатый вагон</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">кемгафксувоце</l></lg><mg><tg xml:lang="rus"><t>восемнадцатый</t></tg>;<xg><x>ётамс кемгафксувоце вайгяльбеть</x><xt xml:lang="rus">пройти восемнадцатый километр</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">кемгафтувоце</l></lg><mg><tg xml:lang="rus"><t>двенадцатый</t></tg>;<xg><x>шачсь кемгафтувоце унокоц у</x><xt xml:lang="rus">него родился двенадцатый внук</xt></xg></mg></e>
-<e><lg><l pos="Det" type="Ord">кемголмувоце</l></lg><mg><tg xml:lang="rus"><t>тринадцатый</t></tg><xg><x>Девятаев семьясост ульсь мекольцесь, кемголмувоце шабась</x><Xsrc>М. Кяшкин, Курссь -- Родинась</Xsrc><xt xml:lang="rus">Девятаев в семье был самым младшим, тринадцатым ребёнком</xt></xg></mg></e>
+<e><lg><l pos="Det" type="Ord">кемголмувоце</l></lg><mg><tg xml:lang="rus"><t>тринадцатый</t></tg><xg><x src="М. Кяшкин, Курссь -- Родинась">Девятаев семьясост ульсь мекольцесь, кемголмувоце шабась</x><xt xml:lang="rus">Девятаев в семье был самым младшим, тринадцатым ребёнком</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">кемготувоце</l></lg><mg><tg xml:lang="rus"><t>шестнадцатый</t></tg>;<xg><x>кемготувоце номерсь</x><xt xml:lang="rus">шестнадцатый номер</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">кемонце</l></lg><mg><tg xml:lang="rus"><t>десятый</t></tg>;<xg><x1>тонафнемс кемонце класса учиться в десятом классе</x1></xg>;<xg><x>шабати тусь кемонце кизось</x><xt xml:lang="rus">ребёнку пошёл десытый год</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">кефкиеце</l></lg><mg><tg xml:lang="rus"><t>одиннадцатый</t></tg>;<xg><x>кефкиеце суткась</x><xt xml:lang="rus">одиннадцатые сутки</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">кодгемонце</l></lg><mg><tg xml:lang="rus"><t>шестидесятый</t></tg>;<xg><x1>атязти моли кодгемонце кизось моему деду идёт шестидесятый год</x1></xg>;<xg><x>кодгемонцеда в</x><xt xml:lang="rus">шестидесятый раз</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">колмогемонце</l></lg><mg><tg xml:lang="rus"><t>тридцатый</t></tg>;<xg><x1>колмогемонцесь спискаса тридцатый по списку</x1></xg></mg></e>
-<e><lg><l pos="Det" type="Ord">колмоце</l></lg><mg><tg xml:lang="rus"><t>третий</t></tg>;<xg><x>колмоце кизось</x><xt xml:lang="rus">третий год</xt></xg>;<xg><x>колмоце шабась</x><xt xml:lang="rus">третий ребёнок.</xt></xg><xg><x>Синь тонафнесть колмоце класса</x><Xsrc>Ф. Атянин, Мзярда кенерихть марьхне</Xsrc><xt xml:lang="rus">Они обучались в третьем классе</xt></xg></mg></e>
+<e><lg><l pos="Det" type="Ord">колмоце</l></lg><mg><tg xml:lang="rus"><t>третий</t></tg>;<xg><x>колмоце кизось</x><xt xml:lang="rus">третий год</xt></xg>;<xg><x>колмоце шабась</x><xt xml:lang="rus">третий ребёнок.</xt></xg><xg><x src="Ф. Атянин, Мзярда кенерихть марьхне">Синь тонафнесть колмоце класса</x><xt xml:lang="rus">Они обучались в третьем классе</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">комозце</l></lg><mg><tg xml:lang="rus"><t>двадцатый</t></tg>;<xg><x>цёрати мольсь комозце кизось</x><xt xml:lang="rus">парню шёл двадцатый год</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">котоце</l></lg><mg><tg xml:lang="rus"><t>шестой</t></tg>;<xg><x1>крайста котоце кудсь шестой дом с краю</x1></xg></mg></e>
-<e><lg><l pos="Det" type="Ord">омбоце</l></lg><mg><tg xml:lang="rus"><t>второй</t></tg><xg><x>Серёжа аделазе ни омбоце классть...</x><Xsrc>П. Левчаев, Вирсь увнай</Xsrc><xt xml:lang="rus">Серёжа окончил уже второй класс...</xt></xg></mg></e>
+<e><lg><l pos="Det" type="Ord">омбоце</l></lg><mg><tg xml:lang="rus"><t>второй</t></tg><xg><x src="П. Левчаев, Вирсь увнай">Серёжа аделазе ни омбоце классть...</x><xt xml:lang="rus">Серёжа окончил уже второй класс...</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">сизьгемоньце</l></lg><mg><tg xml:lang="rus"><t>семидесятый</t></tg>;<xg><x>атяти сизьгемоньце кизось</x><xt xml:lang="rus">старику семидесятый год</xt></xg>;<xg><x>сизьгемонце кизотне</x><xt xml:lang="rus">семидесятые годы</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">сисемце</l></lg><mg><tg xml:lang="rus"><t>седьмой</t></tg>;<xg><x>сисемце шись</x><xt xml:lang="rus">седьмой день</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">сядоце</l></lg><mg><tg xml:lang="rus"><t>сотый</t></tg></mg></e>
