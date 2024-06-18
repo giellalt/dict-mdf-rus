@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <r id="mdfrus" xml:lang="mdf">
 <e><lg><l pos="Parenth">бльшай</l></lg><mg><tg xml:lang="rus"><t>вводн. сл. оказывается, видимо</t></tg><xg><x src="Ю. Кузнецов, Ожудова, вишке коволхт...">А ваямс, бльшай, можна коса-повсь...</x><xt xml:lang="rus">А утонуть, оказывается, можно где угодно</xt></xg></mg></e>
 <e><lg><l pos="Parenth">васенцесь</l></lg><mg><tg xml:lang="rus"><t>вводн. во-первых</t></tg>;<xg><x>васенцесь, сярядити эряви покой</x><xt xml:lang="rus">во-первых, больному нужен покой</xt></xg></mg></e>

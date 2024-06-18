@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <r id="mdfrus" xml:lang="mdf">
 <e><lg><l pos="Po">потмос</l><infl></infl></lg><mg><variants><l_syn>потму</l_syn></variants>;<xg><x>путомс каготтнень шрать потмос</x><xt xml:lang="rus">положить бумаги в стол.</xt></xg><xg><x src="И. Девин, Нардише">Ефиморясь юмафтсь кудонголень шобдать потмос</x><xt xml:lang="rus">Жена Ефима скрылась в темноте сеней</xt></xg></mg></e>
 <e><lg><l pos="Po">эземс</l></lg><mg><tg xml:lang="rus"><t>послелог вместо, взамен</t></tg>;<xg><x>мороть эземс азондсть стихотворения</x><xt xml:lang="rus">вместо песни рассказали стихотворение</xt></xg>;<xg><x>кудть эземс путомс карда</x><xt xml:lang="rus">вместо дома построить хлев</xt></xg></mg></e>

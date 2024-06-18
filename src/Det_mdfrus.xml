@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <r id="mdfrus" xml:lang="mdf">
 <e><lg><l pos="Det">кемнилиеце</l></lg><mg><tg xml:lang="rus"><t>числ. порядк. четырнадцатый</t></tg>;<xg><x>кемнилиеце этажсь</x><xt xml:lang="rus">четырнадцатый этаж</xt></xg>;<xg><x>кемнилиеце вастсь</x><xt xml:lang="rus">четырнадцатое место</xt></xg></mg></e>
 <e><lg><l pos="Det" type="Ord">васенце</l></lg><mg><tg xml:lang="rus"><t>первый</t></tg><xg><x src="Л. Макулов, Саттне панжихть">Лознязевсь тундань васенце вишке пиземсь</x><xt xml:lang="rus">Полил первый весенний дождь</xt></xg></mg></e>

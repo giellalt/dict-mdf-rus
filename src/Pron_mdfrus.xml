@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <r id="mdfrus" xml:lang="mdf">
 <e><lg><l pos="Pron">конац</l><infl></infl></lg><mg><variants><l_syn>кона</l_syn></variants>;<xg><x>конац моли мархтон?</x><xt xml:lang="rus"> кто идёт со мной?</xt></xg>;<xg><x>лятфтамс корхтамать, конац ульсь кунара</x><xt xml:lang="rus">вспомнить разговор, который состоялся давно</xt></xg></mg></e>
 <e><lg><l pos="Pron">конацка</l><infl></infl></lg><mg><variants><l_syn>конавок</l_syn></variants><xg><x src="М. Кяшкин, Курссь -- Родинась">Ламос конацка эздост ашезь отвеча, и Мишась ни арьсесь, што тага ашезь угадя тейст</x><xt xml:lang="rus">Долго никто из них не отвечал, И Михаил подумал, что опять не угодил им</xt></xg>;<xg><x>чяй, конацка оцюфнень эзда моли мархтонк</x><xt xml:lang="rus"> может быть, кто-нибудь из старших пойдёт снами</xt></xg></mg></e>

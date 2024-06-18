@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <r id="mdfrus" xml:lang="mdf">
 <e><lg><l pos="Interj">а</l></lg><mg><tg xml:lang="rus"><t>III межд. выражает удивление, угрозу, злорадство и др. чувства</t></tg>;<xg><x>а, шарьхкодине, сон тонь ялгаце</x><xt xml:lang="rus"> а, я понял, он твой друг</xt></xg>;<xg><x>а повоть!</x><xt xml:lang="rus">а, попался!</xt></xg></mg></e>
 <e><lg><l pos="Inter">ага ага</l></lg><mg><tg xml:lang="rus"><t>выражает злорадство, торжество, замешательство и т. п.</t></tg>;<xg><x>ага! повоть!</x><xt xml:lang="rus">ага! попался!</xt></xg></mg></e>

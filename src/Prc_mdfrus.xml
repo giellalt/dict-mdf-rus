@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <r id="mdfrus" xml:lang="mdf">
 <e><lg><l pos="Prc">заняф</l></lg><mg><tg xml:lang="rus"><t>прис. от занямс</t></tg>;<xg><x>вастсь заняф</x><xt xml:lang="rus">место загято</xt></xg></mg></e>
 <e><lg><l pos="Prc">рамаф</l></lg><mg><tg xml:lang="rus"><t>Прич. от рамамс</t></tg>;<xg><x>рамаф товар</x><xt xml:lang="rus">купленый товар.</xt></xg><xg><x src="Т. Кирдяшкин, Кели Мокша">Старостать лангса рамаф сукнаса вельхтяф ор</x><xt xml:lang="rus">На старосте шуба, покрытая фабричным сукном</xt></xg></mg></e>

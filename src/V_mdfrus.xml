@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <r id="mdfrus" xml:lang="mdf">
 <e><lg><l pos="V">арда</l></lg><mg><tg xml:lang="rus"><t>гл. 1) уходите, идите, уйдите</t></tg>;<xg><x>арда тяста!</x><xt xml:lang="rus">уйдите отсюда!</xt></xg></mg><mg><range>диал.</range><tg xml:lang="rus"><t> пойдёмте</t></tg>;<xg><x>арда марса</x><xt xml:lang="rus">пойдёмте вместе</xt></xg></mg></e>
 <e><lg><l pos="V">аре</l><infl></infl></lg><mg><variants><l_syn>аде</l_syn></variants><xg><x src="УПТМН">Нумолня, нумолня аре марса эрятама</x><xt xml:lang="rus">Зайчик, зайчик, пойдём вместе жить</xt></xg></mg></e>
