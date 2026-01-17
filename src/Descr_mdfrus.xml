@@ -1,8 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <r id="mdfrus" xml:lang="mdf">
-<e><lg><l pos="Descr">конч-конч</l></lg><mg>: конч-конч налхксемс играть в прятки, в жмурки; иттне налхксихть конч-конч дети играют в прятки</mg></e>
+   <e>
+      <lg>
+         <l pos="Descr">конч-конч</l>
+      </lg>
+      <mg>: конч-конч налхксемс играть в прятки, в жмурки; иттне налхксихть конч-конч дети играют в прятки</mg>
+   </e>
 </r>
